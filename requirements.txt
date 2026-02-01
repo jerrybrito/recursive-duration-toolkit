@@ -1,0 +1,2 @@
+# Requires: temporal-suspension
+# (Not available on PyPI)
